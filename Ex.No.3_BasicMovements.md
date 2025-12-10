@@ -16,7 +16,7 @@
 10. Run the Scene Press Play ▶ in Unity
 11. Stop the program.
 ### Program 
-
+```
 using UnityEngine;
 public class TransformOperations : MonoBehaviour
 {
@@ -37,7 +37,7 @@ public class TransformOperations : MonoBehaviour
      o3.localScale += new Vector3(0, 0.2f, 0);
  }
 }
-
+```
 ### Output:
 
 <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/f145e847-9ebd-4f1c-a364-0be1aec9d6a3" />
