@@ -23,7 +23,7 @@ To write a program to simulate the process of seek behavior in Unity without Nav
 13. Stop the program
     
 ### Program:
-
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -78,7 +78,7 @@ public class fleeScript : MonoBehaviour
         transform.position += direction * speed * Time.deltaTime;
     }
 }
-
+```
 ### Output:
 
 <img width="1910" height="982" alt="Screenshot 2025-08-18 094511" src="https://github.com/user-attachments/assets/4b852bf3-1030-4621-8f55-36c875caf090" />
